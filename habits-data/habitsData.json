@@ -1,0 +1,50 @@
+[
+  {
+    "habitName": "Exercise",
+    "data": [
+      { "date": "2025-01-01", "checked": false },
+      { "date": "2025-01-02", "checked": false },
+      { "date": "2025-01-03", "checked": false },
+      { "date": "2025-01-04", "checked": false },
+      { "date": "2025-01-05", "checked": false },
+      { "date": "2025-01-06", "checked": false },
+      { "date": "2025-01-07", "checked": false }
+    ]
+  },
+  {
+    "habitName": "Read Books",
+    "data": [
+      { "date": "2025-01-01", "checked": false },
+      { "date": "2025-01-02", "checked": true },
+      { "date": "2025-01-03", "checked": true },
+      { "date": "2025-01-04", "checked": true },
+      { "date": "2025-01-05", "checked": false },
+      { "date": "2025-01-06", "checked": true },
+      { "date": "2025-01-07", "checked": false }
+    ]
+  },
+  {
+    "habitName": "No Samoking",
+    "data": [
+      { "date": "2025-01-01", "checked": true },
+      { "date": "2025-01-02", "checked": true },
+      { "date": "2025-01-03", "checked": true },
+      { "date": "2025-01-04", "checked": true },
+      { "date": "2025-01-05", "checked": true },
+      { "date": "2025-01-06", "checked": true },
+      { "date": "2025-01-07", "checked": true }
+    ]
+  },
+  {
+    "habitName": "No Mstrbsn",
+    "data": [
+      { "date": "2025-01-01", "checked": false },
+      { "date": "2025-01-02", "checked": false },
+      { "date": "2025-01-03", "checked": true },
+      { "date": "2025-01-04", "checked": true },
+      { "date": "2025-01-05", "checked": true },
+      { "date": "2025-01-06", "checked": true },
+      { "date": "2025-01-07", "checked": true }
+    ]
+  }
+]
